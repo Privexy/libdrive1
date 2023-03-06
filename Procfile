@@ -1,1 +1,1 @@
-start command : python main.py
+web : python main.py
