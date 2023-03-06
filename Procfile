@@ -1,1 +1,1 @@
-python main.py
+start command : python main.py
